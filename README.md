@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IzaiasGouveia
-- 👀 I’m interested in games
-- 🌱 I’m currently learning about html, css and javascript
-- 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me @izaias_gg
+- 👋 Olá, eu me chamo Izaias Gouveia
+- 👀 Eu estou interessado em games
+- 🌱 Atualmente estou aprendendo sobre Html, Css e Javascript
+- 💞️ Procuro colaborar com todos
+- 📫 Como entrar em contato comigo @izaias_gg
 
 <!---
 IzaiasGouveia/IzaiasGouveia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
